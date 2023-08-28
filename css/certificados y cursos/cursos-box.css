@@ -1,0 +1,28 @@
+.curso__box{
+    flex: 1 1 30rem;
+    background: var(--color-fondo);
+    padding: 3rem 2rem 4rem;
+    border-radius: 2rem;
+    border: .2rem solid var(--color-fondo);
+    transition: .5s ease;
+}
+.curso__box:hover{
+    border-color: aqua;
+    box-shadow: 0 0 2rem aqua;
+    transform: scale(1.02);
+}   
+.curso__box h2{
+    font-size: 3rem;
+    font-weight: 600;
+    padding: 1.5rem 0 1.5rem;
+}
+
+.curso__box h3{
+    font-size: 2.2rem;
+    color: aqua;
+}
+.curso__box p{
+    font-size: 1.6rem;
+    margin: 1rem 0 3rem;
+    line-height: 1.3;
+}

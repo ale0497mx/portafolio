@@ -1,6 +1,7 @@
 .contacto-container{
     min-height: 100vh;
     padding: 5rem 5rem 5rem 5rem;
+    background: var(--color-secundario);
 }
 .contacto-container h2{
     text-align: center;
