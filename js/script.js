@@ -43,6 +43,6 @@ ScrollReveal({
 });
 
 ScrollReveal().reveal('.home-contenido, .heading', { origin: 'top' });
-ScrollReveal().reveal('.home-img, .about-imagene, .services-contenedor, .portafolio-box, .contacto-container form', { origin: 'bottom' });
-ScrollReveal().reveal('.home-contenido h1, .about-imagene ', { origin: 'left' });
-ScrollReveal().reveal('.home-contenido p, .about-contenido ', { origin: 'right' });
+ScrollReveal().reveal('.home-img, .about-imagene, .services-contenedor, .portafolio-box, .cursos-contenido , .contacto-container form', { origin: 'bottom' });
+ScrollReveal().reveal('.home-contenido h1, .about-imagene, .cursos-caja ', { origin: 'left' });
+ScrollReveal().reveal('.home-contenido p, .about-contenido, formacion-caja ', { origin: 'right' });
