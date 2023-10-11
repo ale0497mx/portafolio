@@ -1,5 +1,8 @@
 .curso__box{
     flex: 1 1 30rem;
+    max-width: 350px;
+    text-align: center;
+    height: 470px;
     background: var(--color-fondo);
     padding: 3rem 2rem 4rem;
     border-radius: 2rem;
